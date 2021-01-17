@@ -1,0 +1,30 @@
+C:\Users\lenovo\Desktop\TETRIS_01\obj\Debug\TETRIS_01.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\TETRIS_01\obj\Debug\App.g.cs
+C:\Users\lenovo\Desktop\TETRIS_01\obj\Debug\TETRIS_01_MarkupCompile.cache
+C:\Users\lenovo\Desktop\TETRIS_01\obj\Debug\MainWindow.g.cs
+C:\Users\lenovo\Desktop\TETRIS_01\obj\Debug\TETRIS_01_MarkupCompile.lref
+C:\Users\lenovo\Desktop\TETRIS_01\bin\Debug\TETRIS_01.exe.config
+C:\Users\lenovo\Desktop\TETRIS_01\bin\Debug\TETRIS_01.exe
+C:\Users\lenovo\Desktop\TETRIS_01\bin\Debug\TETRIS_01.pdb
+C:\Users\lenovo\Desktop\TETRIS_01\obj\Debug\MainWindow.baml
+C:\Users\lenovo\Desktop\TETRIS_01\obj\Debug\TETRIS_01.g.resources
+C:\Users\lenovo\Desktop\TETRIS_01\obj\Debug\TETRIS_01.Properties.Resources.resources
+C:\Users\lenovo\Desktop\TETRIS_01\obj\Debug\TETRIS_01.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\TETRIS_01\obj\Debug\TETRIS_01.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\TETRIS_01\obj\Debug\TETRIS_01.exe
+C:\Users\lenovo\Desktop\TETRIS_01\obj\Debug\TETRIS_01.pdb
+C:\Users\lenovo\Documents\USB1\Sem_2\ANALISIS Y DISEÑO DE PROGRAMAS\TETRIS_01\bin\Debug\TETRIS_01.exe.config
+C:\Users\lenovo\Documents\USB1\Sem_2\ANALISIS Y DISEÑO DE PROGRAMAS\TETRIS_01\bin\Debug\TETRIS_01.exe
+C:\Users\lenovo\Documents\USB1\Sem_2\ANALISIS Y DISEÑO DE PROGRAMAS\TETRIS_01\bin\Debug\TETRIS_01.pdb
+C:\Users\lenovo\Documents\USB1\Sem_2\ANALISIS Y DISEÑO DE PROGRAMAS\TETRIS_01\obj\Debug\TETRIS_01.csprojAssemblyReference.cache
+C:\Users\lenovo\Documents\USB1\Sem_2\ANALISIS Y DISEÑO DE PROGRAMAS\TETRIS_01\obj\Debug\MainWindow.g.cs
+C:\Users\lenovo\Documents\USB1\Sem_2\ANALISIS Y DISEÑO DE PROGRAMAS\TETRIS_01\obj\Debug\App.g.cs
+C:\Users\lenovo\Documents\USB1\Sem_2\ANALISIS Y DISEÑO DE PROGRAMAS\TETRIS_01\obj\Debug\TETRIS_01_MarkupCompile.cache
+C:\Users\lenovo\Documents\USB1\Sem_2\ANALISIS Y DISEÑO DE PROGRAMAS\TETRIS_01\obj\Debug\TETRIS_01_MarkupCompile.lref
+C:\Users\lenovo\Documents\USB1\Sem_2\ANALISIS Y DISEÑO DE PROGRAMAS\TETRIS_01\obj\Debug\MainWindow.baml
+C:\Users\lenovo\Documents\USB1\Sem_2\ANALISIS Y DISEÑO DE PROGRAMAS\TETRIS_01\obj\Debug\TETRIS_01.g.resources
+C:\Users\lenovo\Documents\USB1\Sem_2\ANALISIS Y DISEÑO DE PROGRAMAS\TETRIS_01\obj\Debug\TETRIS_01.Properties.Resources.resources
+C:\Users\lenovo\Documents\USB1\Sem_2\ANALISIS Y DISEÑO DE PROGRAMAS\TETRIS_01\obj\Debug\TETRIS_01.csproj.GenerateResource.cache
+C:\Users\lenovo\Documents\USB1\Sem_2\ANALISIS Y DISEÑO DE PROGRAMAS\TETRIS_01\obj\Debug\TETRIS_01.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\USB1\Sem_2\ANALISIS Y DISEÑO DE PROGRAMAS\TETRIS_01\obj\Debug\TETRIS_01.exe
+C:\Users\lenovo\Documents\USB1\Sem_2\ANALISIS Y DISEÑO DE PROGRAMAS\TETRIS_01\obj\Debug\TETRIS_01.pdb
